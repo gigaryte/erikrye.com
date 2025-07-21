@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-hidden: true
+hidden: false
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
@@ -34,5 +34,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
+
+Foo bar
 
 {% include feature_row %}

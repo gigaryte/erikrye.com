@@ -7,3 +7,36 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+p,li {
+  font-size: 0.8rem; // change to your preferred size (e.g., 1rem, 16px, etc.)
+  line-height: 1.6;
+}
+
+.news-list {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.news-list li {
+  margin-bottom: 0.5em;
+}
+
+.news-date {
+  font-weight: bold;
+  color: #555;
+  margin-right: 0.5em;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.2em 0.5em;
+  font-size: 0.75em;
+  font-weight: 600;
+  color: white;
+  background-color: #5a5a5a;
+  border-radius: 0.4em;
+  margin-left: 0.5em;
+}
+
