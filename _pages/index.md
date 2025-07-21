@@ -6,13 +6,15 @@ author_profile: true
 
 I'm an incoming Assistant Professor in the Computer Science Department at Johns
 Hopkins University, starting Fall 2026. I'm looking for motivated students
-interested in empirical research on network security and privacy. If that sounds
+interested in empirical work in network security and privacy. If that sounds
 like you, please get in touch!
 
 My work focuses on security and privacy vulnerabilities that affect real people
 on the Internet. I collaborate with government and industry partners to
 understand and address these problems. I enjoy exploring the systems we all rely
-on&mdash;knowingly or not&mdash;and often assume to be secure or private.
+on&mdash;knowingly or not&mdash;and often assume to be secure or private. I like
+building tools to measure new phenomenon and collect new data, and run the <a
+href="https://ipv6observatory.org">IPv6 Observatory</a>.
 
 Outside the lab, I’m an alliteration advocate, serial comma champion, diaeresis
 disciple, ligature lover, and semicolon supporter. Kerning is pretty groovy. I’m
