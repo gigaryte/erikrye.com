@@ -13,7 +13,7 @@ My work focuses on security and privacy vulnerabilities that affect real people
 on the Internet. I collaborate with government and industry partners to
 understand and address these problems. I enjoy exploring the systems we all rely
 on&mdash;knowingly or not&mdash;and often assume to be secure or private. I like
-building tools to measure new phenomenon and collect new data, and run the <a
+building tools to measure new phenomena and collect new data, and run the <a
 href="https://ipv6observatory.org">IPv6 Observatory</a>.
 
 Outside the lab, I’m an alliteration advocate, serial comma champion, diaeresis
