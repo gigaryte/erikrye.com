@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Publications
+## Peer-Reviewed Conference and Journal Publications
 
 1. **Buy it Now, Track Me Later: Attacking User Privacy via Wi-Fi AP Online Auctions**  <a
 href="/assets/files/trackmelater-pets25.pdf">PDF</a>  
