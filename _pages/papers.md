@@ -2,6 +2,7 @@
 layout: home
 permalink: /publications/
 author_profile: true
+title: ""
 ---
 
 ## Peer-Reviewed Conference and Journal Publications
