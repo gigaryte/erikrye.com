@@ -4,10 +4,10 @@ permalink: /
 author_profile: true
 ---
 
-I'm an incoming Assistant Professor in the Computer Science Department at Johns
-Hopkins University, starting Fall 2026. I'm looking for motivated students
-interested in empirical work in network security and privacy. If that sounds
-like you, please get in touch!
+I'm a Research Assistant Professor in the Computer Science Department at Johns
+Hopkins University and Visiting Research Scientist at the University of
+Maryland. I'm looking for motivated students interested in empirical work in
+network security and privacy. If that sounds like you, please get in touch!
 
 My work focuses on security and privacy vulnerabilities that affect real people
 on the Internet. I collaborate with government and industry partners to
