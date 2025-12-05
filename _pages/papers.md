@@ -7,6 +7,15 @@ title: ""
 
 ## Peer-Reviewed Conference and Journal Publications
 
+1. **On Borrowed Time: Measurement-Informed Understanding of the NTP Pool's
+   Robustness to Monopoly Attacks** (to appear)<br>
+    *Robert Beverly, Erik Rye*  
+    <span class="badge" style="background-color:#FF8C00;">NDSS '26</span>
+
+1. **WikIPedia: Unearthing a 20-year History of IPv6 Client Addressing** (to appear)<br> 
+    *Erik Rye, Dave Levin*  
+    <span class="badge" style="background-color:#0e8a16;">PAM '26</span>
+
 1. **Buy it Now, Track Me Later: Attacking User Privacy via Wi-Fi AP Online Auctions**  <a
 href="/assets/files/trackmelater-pets25.pdf">PDF</a>  
     *Steven Su, Erik Rye, Dave Levin, Robert Beverly*    
