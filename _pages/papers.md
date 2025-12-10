@@ -12,7 +12,7 @@ title: ""
     *Robert Beverly, Erik Rye*  
     <span class="badge" style="background-color:#FF8C00;">NDSS '26</span>
 
-1. **WikIPedia: Unearthing a 20-year History of IPv6 Client Addressing** (to appear)<br> 
+1. **WikIPedia: Unearthing a 20-year History of IPv6 Client Addressing** <a href='/assets/files/wikipedia-pam26.pdf'>PDF</a><br> 
     *Erik Rye, Dave Levin*  
     <span class="badge" style="background-color:#0e8a16;">PAM '26</span>
 
