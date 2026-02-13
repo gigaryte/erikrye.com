@@ -8,7 +8,7 @@ title: ""
 ## Peer-Reviewed Conference and Journal Publications
 
 1. **On Borrowed Time: Measurement-Informed Understanding of the NTP Pool's
-   Robustness to Monopoly Attacks** (to appear)<br>
+   Robustness to Monopoly Attacks** <a href='/assets/files/beverly-time-ndss26.pdf'>PDF</a><br>
     *Robert Beverly, Erik Rye*  
     <span class="badge" style="background-color:#FF8C00;">NDSS '26</span>
 
