@@ -19,7 +19,7 @@ href="https://ipv6observatory.org">IPv6 Observatory</a>.
 Outside the lab, I’m an alliteration advocate, serial comma champion, diaeresis
 disciple, ligature lover, and semicolon supporter. Kerning is pretty groovy. I’m
 also an erratic (ultra)marathoner, erstwhile Marine, and devoted dog enthusiast.
-My Erdős number is 3 (Gera → Chartrand → Erdős).
+My Erdős number is 3 (Rye → Gera → Chartrand → Erdős).
 
 #### News
 
