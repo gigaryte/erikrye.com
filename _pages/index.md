@@ -21,6 +21,8 @@ disciple, ligature lover, and semicolon supporter. Kerning is pretty groovy. I�
 also an erratic (ultra)marathoner, erstwhile Marine, and devoted dog enthusiast.
 My Erdős number is 3 (Rye → Gera → Chartrand → Erdős).
 
+I am not <a href="https://www.goodreads.com/author/list/50757970.Erik_Rye">this Erik Rye</a>.
+
 #### News
 
 <ul class="news-list">
