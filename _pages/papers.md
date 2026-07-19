@@ -7,6 +7,15 @@ title: ""
 
 ## Peer-Reviewed Conference and Journal Publications
 
+1. **Cleaning the NTP Pool: Detecting and Mitigating NTP-sourced IPv6 Scanning (to appear)** 
+    *Erik Rye, Robert Beverly*  
+    <span class="badge" style="background-color:#90D5FF;">CCS '26</span>
+
+1. **Where Have All the Firewalls Gone? Security Consequences of Residential
+   IPv6 Transition (to appear)** 
+    *Erik Rye, Dave Levin, Robert Beverly*  
+    <span class="badge" style="background-color:#90D5FF;">CCS '26</span>
+
 1. **On Borrowed Time: Measurement-Informed Understanding of the NTP Pool's
    Robustness to Monopoly Attacks** <a href='/assets/files/beverly-time-ndss26.pdf'>PDF</a><br>
     *Robert Beverly, Erik Rye*  
