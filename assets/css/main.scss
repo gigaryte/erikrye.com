@@ -9,7 +9,7 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 p,li {
-  font-size: 0.8rem; // change to your preferred size (e.g., 1rem, 16px, etc.)
+  font-size: 0.9rem; // change to your preferred size (e.g., 1rem, 16px, etc.)
   line-height: 1.6;
 }
 
@@ -25,7 +25,7 @@ p,li {
 
 .news-date {
   font-weight: bold;
-  color: #555;
+  color: $link-color; // reuse the theme accent so the timeline reads as a set
   margin-right: 0.5em;
 }
 
