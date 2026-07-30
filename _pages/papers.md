@@ -7,6 +7,10 @@ title: ""
 
 ## Peer-Reviewed Conference and Journal Publications
 
+1. **6SEVEN: System for EValuating IPv6 ENumeration algorithms (to appear)** 
+    *Chase Kanipe, Erik Rye, Dave Levin, Robert Beverly*  
+   <span class="badge" style="background-color:#22863a;">IMC '26</span>
+
 1. **Cleaning the NTP Pool: Detecting and Mitigating NTP-sourced IPv6 Scanning (to appear)** 
     *Erik Rye, Robert Beverly*  
     <span class="badge" style="background-color:#90D5FF;color:#000;">CCS '26</span>
