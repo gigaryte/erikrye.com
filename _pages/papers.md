@@ -7,13 +7,18 @@ title: ""
 
 ## Peer-Reviewed Conference and Journal Publications
 
+1. **Reactive Constraint-Based Geolocation of Internet Hosts (to appear)** 
+    *Spencer Ye, Chase Kanipe, Peter Ryan, **Erik Rye***
+   <span class="badge" style="background-color:#22863a;">NewGeo '26</span>
 
-1. **Cleaning the NTP Pool: Detecting and Mitigating NTP-sourced IPv6 Scanning (to appear)** 
+
+1. **Cleaning the NTP Pool: Detecting and Mitigating NTP-sourced IPv6 Scanning** <a href='/assets/files/rye-cleaning-ntp-ccs26.pdf'>PDF</a><br>
     ***Erik Rye**, Robert Beverly*  
     <span class="badge" style="background-color:#90D5FF;color:#000;">CCS '26</span>
 
 1. **Where Have All the Firewalls Gone? Security Consequences of Residential
-   IPv6 Transition (to appear)** 
+   IPv6 Transition**  <a
+href='/assets/files/rye-firewalls-gone-ccs26.pdf'>PDF</a><br>
     ***Erik Rye**, Dave Levin, Robert Beverly*  
     <span class="badge" style="background-color:#90D5FF;color:#000">CCS '26</span>
 
