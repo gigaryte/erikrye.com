@@ -7,7 +7,8 @@ title: ""
 
 ## Peer-Reviewed Conference and Journal Publications
 
-1. **Reactive Constraint-Based Geolocation of Internet Hosts (to appear)** 
+1. **Reactive Constraint-Based Geolocation of Internet Hosts** <a
+   href='/assets/files/ye-reactive-newgeo26.pdf'>PDF</a><br>
     *Spencer Ye, Chase Kanipe, Peter Ryan, **Erik Rye***
    <span class="badge" style="background-color:#22863a;">NewGeo '26</span>
 
